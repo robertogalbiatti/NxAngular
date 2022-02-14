@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/robertogalbiatti/NxAngular#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "prettier": "^2.5.1"
   }
 }
